@@ -1,4 +1,8 @@
 # testRepository
-testing accessing github repository from linux subsystem\n
-change 1 from github repository\n
-change 2 from working repository\n
+testing accessing github repository from linux subsystem
+
+change 1- cant remember rip
+
+change 2- testing commit and push requests in fork
+
+change 3-testing fetch in fork
